@@ -1,0 +1,29 @@
+{
+    "assist2015": {
+        "model_path_fold_first": [
+            "./best_model_path/assist2015/bakt/qid_sparseattn/bakt_tiaocan_assist2015_3407_0_0.3_64_64_2_4_0.5_0.5_0.5_50_256_256_8_4_0.0001_0.03_8_4_1_1_b555dbda-c385-4eaa-9167-6382ebb44ad8",
+            "./best_model_path/assist2015/bakt/qid_sparseattn/bakt_tiaocan_assist2015_42_1_0.3_256_256_2_4_0.5_0.5_0.5_50_64_256_8_4_0.001_0.03_7_2_1_1_4ad19ce2-a94e-4454-9b45-7df4f469c46c",
+            "./best_model_path/assist2015/bakt/qid_sparseattn/bakt_tiaocan_assist2015_3407_2_0.3_256_64_2_4_0.5_0.5_0.5_50_64_256_8_4_0.001_0.05_8_4_1_1_659df1cc-f36c-497c-9cba-6950021b2816",
+            "./best_model_path/assist2015/bakt/qid_sparseattn/bakt_tiaocan_assist2015_3407_3_0.3_64_256_2_4_0.5_0.5_0.5_50_64_256_8_4_0.001_0.03_6_3_1_1_b16208b3-bf43-47de-a74b-75e892be005a",
+            "./best_model_path/assist2015/bakt/qid_sparseattn/bakt_tiaocan_assist2015_42_4_0.3_64_64_2_4_0.5_0.5_0.5_50_64_256_8_4_0.001_0.05_7_5_1_1_f02dd495-fd04-4906-a23a-960429c0e9fe"
+        ]
+    },
+    "poj": {
+        "model_path_fold_first": [
+            "./best_model_path/poj/bakt/qid_sparseattn/bakt_tiaocan_poj_3407_0_0.3_64_64_2_4_0.5_0.5_0.5_50_64_256_8_4_0.001_0.05_10_2_1_1_733e3c01-2d97-4486-98e9-dc7b523123ea",
+            "./best_model_path/poj/bakt/qid_sparseattn/bakt_tiaocan_poj_42_1_0.3_64_64_2_4_0.5_0.5_0.5_50_64_256_8_4_0.001_0.01_8_3_1_1_07cdc080-7862-4610-b4ed-f22ccb6a5181",
+            "./best_model_path/poj/bakt/qid_sparseattn/bakt_tiaocan_poj_3407_2_0.3_64_64_2_4_0.5_0.5_0.5_50_64_64_8_4_0.001_0.01_9_5_1_1_ab4764fc-aeba-4414-99ed-09eae5ab3124",
+            "./best_model_path/poj/bakt/qid_sparseattn/bakt_tiaocan_poj_3407_3_0.3_64_256_2_4_0.5_0.5_0.5_50_64_256_8_4_0.001_0.01_8_4_1_1_a8b35df7-66a5-438b-a6e7-51fc845ae76d",
+            "./best_model_path/poj/bakt/qid_sparseattn/bakt_tiaocan_poj_3407_4_0.5_64_256_2_4_0.5_0.5_0.5_50_256_256_8_4_0.0001_0.09_6_5_1_1_52093114-4d63-46a2-be61-93d7c152320c"
+        ]
+    },
+    "nips_task34": {
+        "model_path_fold_first": [
+            "./best_model_path/nips_task34/bakt/qid_sparseattn/bakt_tiaocan_nips_task34_3407_0_0.05_256_64_2_4_0.5_0.5_0.5_50_256_256_8_4_0.001_0.05_7_5_1_1_8d7fcf25-d0ae-43c5-8010-5306a743d341",
+            "./best_model_path/nips_task34/bakt/qid_sparseattn/bakt_tiaocan_nips_task34_3407_1_0.3_256_256_2_4_0.5_0.5_0.5_50_256_64_8_4_0.001_0.05_6_3_1_1_f007f9e8-66aa-4216-9de4-5b4d5a7b18d3",
+            "./best_model_path/nips_task34/bakt/qid_sparseattn/bakt_tiaocan_nips_task34_3407_2_0.3_256_64_2_4_0.5_0.5_0.5_50_64_64_8_4_0.001_0.03_8_5_1_1_88d2b1bf-fce1-4f02-ad04-8c2eae57d9bb",
+            "./best_model_path/nips_task34/bakt/qid_sparseattn/bakt_tiaocan_nips_task34_42_3_0.1_64_64_2_4_0.5_0.5_0.5_50_256_256_8_4_0.001_0.09_9_5_1_1_18959366-b4cf-4fc2-9841-f58099b2fee0",
+            "./best_model_path/nips_task34/bakt/qid_sparseattn/bakt_tiaocan_nips_task34_3407_4_0.05_256_64_2_4_0.5_0.5_0.5_50_256_64_8_4_0.001_0.01_5_3_1_1_0f9b839f-eb08-48c6-aafb-ee0a0aacfb3a"
+        ]
+    }
+}
